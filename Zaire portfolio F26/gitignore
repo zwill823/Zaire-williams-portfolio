@@ -1,0 +1,59 @@
+# ---------------------------------------------------------------
+# Operating system clutter
+# ---------------------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ---------------------------------------------------------------
+# Editors
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------------------------------------------------------------
+# Full-resolution originals and design source files
+# Keep these on your own machine. Commit only the web-sized
+# versions the site actually uses.
+# ---------------------------------------------------------------
+images/originals/
+*.psd
+*.ai
+*.fig
+*.sketch
+*.raw
+*.cr2
+*.nef
+*.dng
+
+# iPhone photos — most browsers can't display HEIC, so these
+# would add weight to the repo without ever showing on the site.
+# Convert to JPG before adding them.
+*.heic
+*.HEIC
+
+# ---------------------------------------------------------------
+# Private — NEVER commit
+# Anything under these folders stays off GitHub. Use them for
+# drafts, raw data, notes, and anything work-related that isn't
+# cleared for public release.
+# ---------------------------------------------------------------
+private/
+drafts/
+notes/
+.env
+*.env
+
+# ---------------------------------------------------------------
+# Logs and temporary files
+# ---------------------------------------------------------------
+*.log
+tmp/
+temp/

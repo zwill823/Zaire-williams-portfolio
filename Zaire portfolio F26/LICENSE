@@ -1,0 +1,48 @@
+Copyright (c) 2026 Zaire Williams
+
+This repository contains two kinds of material, released under different terms.
+
+
+1. SOURCE CODE — MIT LICENSE
+
+The source code in this repository — the HTML markup, CSS styles and
+JavaScript — is released under the MIT License below. This license covers
+the code only, not the text, images, data or figures that the code displays.
+
+  Permission is hereby granted, free of charge, to any person obtaining a
+  copy of this software and associated documentation files (the "Software"),
+  to deal in the Software without restriction, including without limitation
+  the rights to use, copy, modify, merge, publish, distribute, sublicense,
+  and/or sell copies of the Software, and to permit persons to whom the
+  Software is furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+  DEALINGS IN THE SOFTWARE.
+
+
+2. CONTENT — ALL RIGHTS RESERVED
+
+Everything else in this repository is NOT covered by the MIT License and
+may not be reproduced, modified or redistributed without written
+permission. This includes:
+
+  - the written text, including all project descriptions
+  - photographs, paintings and other images, including everything in /images
+  - documents, including everything in /files and the résumé embedded in
+    index.html
+  - charts, diagrams and figures depicting specific projects or data
+
+Co-authored works, such as the ASTEROIDS flight proposal, remain the
+property of all of their authors.
+
+Names and marks of institutions and companies referenced in this repository,
+including MIT and GE Vernova, belong to their respective owners and are used
+only to describe where the work was done. No endorsement is implied.
